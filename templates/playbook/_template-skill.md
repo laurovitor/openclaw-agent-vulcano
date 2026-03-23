@@ -1,44 +1,44 @@
-# Nome da Skill
+# Skill Name
 
-## Tipo
-- ampla | específica
+## Type
+- broad | specialist
 
-## Domínio
-Descreva o domínio exato desta skill.
+## Domain
+Describe the exact domain of this skill.
 
-## Quando usar
-Liste os sinais claros que indicam que esta skill deve ser usada.
+## When to use
+List the clear signals that indicate this skill should be used.
 
-## Quando NÃO usar
-Liste os casos em que outra skill deve ser priorizada.
+## When NOT to use
+List the cases where another skill should be prioritized.
 
-## Prioridade
-Explique se esta skill vence alguma skill ampla ou se atua como fallback.
+## Priority
+Explain whether this skill overrides a broad skill or acts as fallback.
 
-## Modo de operação
-Defina como o agente deve pensar e agir quando esta skill estiver ativa.
+## Operating mode
+Define how the agent should think and act when this skill is active.
 
-## Checklist operacional
-- entender o problema
-- mapear stack/contexto
-- identificar impacto
-- executar ou propor solução
-- validar
-- reportar
+## Operational checklist
+- understand the problem
+- map stack/context
+- identify impact
+- execute or propose a solution
+- validate
+- report
 
-## Regras
-- o que esta skill sempre faz
-- o que esta skill nunca deve fazer
-- quais limites deve respeitar
+## Rules
+- what this skill always does
+- what this skill must never do
+- which limits it must respect
 
-## Formato de entrega
-- o que foi feito
-- validação
-- riscos
-- próximo passo
+## Delivery format
+- what was done
+- validation
+- risks
+- next step
 
 ## Fallback
-Explique para onde cair se a task fugir do escopo desta skill.
+Explain where to fall if the task moves outside this skill scope.
 
-## Regra de recusa
-Explique quando o agente deve recusar a tarefa em vez de improvisar fora do domínio.
+## Refusal rule
+Explain when the agent must refuse the task instead of improvising outside the domain.

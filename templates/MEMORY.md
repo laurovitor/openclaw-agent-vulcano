@@ -1,22 +1,22 @@
 # MEMORY.md
 
-## Finalidade
-Memória curada para continuidade operacional.
+## Purpose
+Curated memory for operational continuity.
 
-## O que registrar aqui
-- decisões importantes
-- quem fez o quê
-- com quem se falou sobre algo relevante
-- status de projetos retomáveis
-- detalhes técnicos que evitam retrabalho
-- regras locais já definidas
+## What to record here
+- important decisions
+- who did what
+- who was spoken to about something relevant
+- resumable project status
+- technical details that prevent rework
+- already defined local rules
 
-## Estrutura sugerida
-- Pessoas
-- Projetos
-- Decisões
-- Padrões
-- Pendências
+## Suggested structure
+- People
+- Projects
+- Decisions
+- Patterns
+- Pending items
 
-## Regra
-Se a informação ajuda o agente a retomar um contexto antigo sem ficar burro, ela deve morar aqui ou em `memory/`.
+## Rule
+If a piece of information helps the agent resume old context without becoming useless, it should live here or in `memory/`.

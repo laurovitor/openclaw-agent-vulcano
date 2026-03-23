@@ -1,15 +1,15 @@
 # BOOTSTRAP.md
 
-Use este arquivo apenas na primeira inicialização do agente ou quando houver reset estrutural.
+Use this file only during the first agent initialization or during a structural reset.
 
-## Objetivo
-Garantir que o agente nasça com estrutura mínima, identidade clara, playbook disponível e base de memória pronta.
+## Objective
+Ensure the agent is born with the minimum structure, clear identity, available playbook, and ready memory base.
 
-## Checklist de bootstrap
-1. Confirmar presença de `AGENTS.md`, `PLAYBOOK.md`, `IDENTITY.md` e `MEMORY.md`.
-2. Confirmar que a pasta `playbook/` existe.
-3. Confirmar que a pasta `memory/` existe.
-4. Se faltar estrutura mínima, criar a estrutura-base.
-5. Registrar no `MEMORY.md` que o agente foi inicializado.
-6. Remover do `AGENTS.md` a instrução de leitura deste arquivo após o bootstrap.
-7. Excluir este `BOOTSTRAP.md` ao concluir o bootstrap.
+## Bootstrap checklist
+1. Confirm the presence of `AGENTS.md`, `PLAYBOOK.md`, `IDENTITY.md`, and `MEMORY.md`.
+2. Confirm that the `playbook/` folder exists.
+3. Confirm that the `memory/` folder exists.
+4. If the minimum structure is missing, create the base structure.
+5. Record in `MEMORY.md` that the agent was initialized.
+6. Remove the read instruction for this file from `AGENTS.md` after bootstrap.
+7. Delete this `BOOTSTRAP.md` after bootstrap is complete.
